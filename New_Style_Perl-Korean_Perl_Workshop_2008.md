@@ -704,6 +704,6 @@ Modern Perl 무료 책
 http://onyxneon.com/books/modern_perl/
 
 Learning Perl 5판 번역서 비평
-https://github.com/aero/perl_docs/wiki/Learning-perl-5th-review
+https://github.com/aero/perl_docs/blob/master/Learning_Perl_5th_kor_review.md
 ```
 
