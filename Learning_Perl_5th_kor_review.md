@@ -172,7 +172,7 @@ sub my_func2 {
 코드에 `my ($square) = $_ * $_;` 도 굳이 괄호를 넣지 않고 `my $square = $_ * $_;` 라고 해주는게 더 적절하겠죠.
 
 
-my같은 사설변수( lexical variable ), use strict 프래그마 같은 것에 대한 보충 설명은 "최신 스타일 Perl로 개과천선하기"( https://github.com/aero/perl_docs/wiki/New_Perl_Korean_Perl_Workshop_2008 ) 를 읽어보세요.
+my같은 사설변수( lexical variable ), use strict 프래그마 같은 것에 대한 보충 설명은 "최신 스타일 Perl로 개과천선하기"( https://github.com/aero/perl_docs/blob/master/New_Style_Perl-Korean_Perl_Workshop_2008.md ) 를 읽어보세요.
 **my, our, local 같이 변수의 영역과 생명주기를 결정짓는 키워드는 차이점이 뭔지 확실하게 이해해야 합니다.**
 
 **현대 Perl에서는 기본적으로** 
