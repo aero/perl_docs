@@ -345,7 +345,32 @@ while ( my ($key, $value) = each %hash ) {
 
 형식으로 쓰는게 정석입니다. my변수를 가르쳐줘 놓고 후속되는 코드들에 왜 이런 형식으로 안써놨는지 개인적으로 불만이군요. 이후에도 계속 그런식의 코드들이 나오는데 **루프내에 한정되어 쓰이는 변수에는 꼭 my를 쓰도록 합시다.** 뭐 제가 따로 말 안해도 앞에서 말했던 `use strict;` 프래그마를 쓰면 알아서 에러날테지만요~
 
-### 번외편
+## 15장 - 똑똑한 일치와 given ~ when
+
+### p295
+Perl 5.10 부터 도입된 smart match 연산자 ~~ 는 너무 경우의 수가 많아 복잡하고 경우에 따라 일관성을 가지고 동작하지 못하는 부분이 있어
+차후 deprecate 시키든지 다시 깔끔하게 정리하려고 하는 것 같습니다. 따라서 그때까지는 쓰지 말기를 추천하더군요.
+
+참고:
+ http://blogs.perl.org/users/brian_d_foy/2011/07/rethinking-smart-matching.html
+
+그리고 C의 switch 같은 기능의 given ~ when 구문은 given과 같이 사용되는 lexical $_ 변수와 위의 내부적으로 given ~ when 구문의 비교에 있어 기본으로 사용되는 smart match연산자
+와 얽힌 부분에 문제가 있어 역시 향후 기능과 동작이 다시 완벽해지기 전까지는 역시 사용하지 말 것을 추천하고 있습니다.
+
+참고:
+http://www.effectiveperlprogramming.com/blog/1333
+http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2011-05/thrd9.html#00768
+
+http://blogs.perl.org/users/leon_timmermans/2011/10/why-do-you-want-new-major-features-in-core.html 에 보면
+
+    Smartmatching? I think everyone agrees it is broken.
+    given/when is even worse as it's almost impossible to predict if it will use smartmatching or not.
+    Lexical $_? Mostly a new source of bugs, and the _ prototype is merely a hack to work around lexical $_ issues.
+
+라고 말하고 있음.
+
+## 번외변
+### 해시 슬라이스
 책의 뒷쪽에서 다루는  고급주제지만 미리 설명드리면 앞에서 배운 배열 슬라이스와 비슷한 해시 슬라이스라는 것이 있습니다.
 `my %hash = ( a=>1, b=>2, c=>3, d=>4);`에서 키 a,c,d에 대한 값을 뽑아내려면 `my @values = ( $hash{a}, $hash{c}, $hash{d} );` 라고 할 수 있을 겁니다. 이것을 해시 슬라이스로 줄여쓰면 `my @values = @hash{'a','c','d'};` 라고 할 수 있습니다. 이건 `my @values = @hash{qw/a c d/};`라고 해도 되는 건 센스가 좀 있으시면 별 무리없이 이해되실듯..
 
