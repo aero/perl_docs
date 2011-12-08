@@ -369,7 +369,7 @@ http://blogs.perl.org/users/leon_timmermans/2011/10/why-do-you-want-new-major-fe
 
 라고 말하고 있음.
 
-## 번외변
+## 번외편
 ### 해시 슬라이스
 책의 뒷쪽에서 다루는  고급주제지만 미리 설명드리면 앞에서 배운 배열 슬라이스와 비슷한 해시 슬라이스라는 것이 있습니다.
 `my %hash = ( a=>1, b=>2, c=>3, d=>4);`에서 키 a,c,d에 대한 값을 뽑아내려면 `my @values = ( $hash{a}, $hash{c}, $hash{d} );` 라고 할 수 있을 겁니다. 이것을 해시 슬라이스로 줄여쓰면 `my @values = @hash{'a','c','d'};` 라고 할 수 있습니다. 이건 `my @values = @hash{qw/a c d/};`라고 해도 되는 건 센스가 좀 있으시면 별 무리없이 이해되실듯..
