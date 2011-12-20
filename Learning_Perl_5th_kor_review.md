@@ -381,6 +381,7 @@ Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필�
 
 # 추가 참고 문서
 ## 영문
+ * Learn Perl in about 2 hours 30 minutes http://qntm.org/files/perl/perl.html
  * Perl Beginners' Site http://perl-begin.org/
  * Perl Training Australia - Course Notes http://perltraining.com.au/notes.html
  * Perl Training Australia - Perl Tips http://perltraining.com.au/tips/
@@ -390,7 +391,8 @@ Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필�
  * Steve's Perl Tutorial http://www.resoo.org/docs/perl/perl_tutorial/tutorial.html
  * Perl 101 - Things Every Perl Programmer Should Know http://perl101.org/
  * What Every Perl Programmer Should Know http://houston.pm.org/talks/2006talks/0604Talk/tiddlywiki_weppsk.html
- * Object-Oriented Programming in Perl Tutorial http://urth.org/~autarch/new-pod/html/perlootut.pod.html
+ * Perl object reference https://metacpan.org/module/SHAY/perl-5.15.5/pod/perlobj.pod
+ * Object-Oriented Programming in Perl Tutorial https://metacpan.org/module/SHAY/perl-5.15.5/pod/perlootut.pod
 
 ## 한글
  * gypark님의 Wiki의 Perl섹션 http://gypark.pe.kr/wiki/perl
