@@ -379,6 +379,8 @@ http://blogs.perl.org/users/leon_timmermans/2011/10/why-do-you-want-new-major-fe
 # 이 책에 없는 것
 Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필요하고 이해해야하는 레퍼런스( http://perldoc.perl.org/perlreftut.html , http://perldoc.perl.org/perlref.html )와 복잡한 자료구조( http://perldoc.perl.org/perldsc.html ), 모듈의 원리, 객체지향(OOP) 등에 대해서 다루지 않습니다. 따라서 이 책을 다 봤다고 Perl을 다 공부했다고 생각하시면 안됩니다. 원래 이 책 다음으로 보도록 기획된 책이 Intermediated Perl ( http://oreilly.com/catalog/9780596102067 ) 이란 책입니다. 이 책은 약간 오래됐고( 개정판을 준비중이라는 소문이 있음) 번역서가 없으니 영문을 보셔야 하며, 개인적으로 Learning Perl 5판에서 다루지 않은 Perl 전반을 다루는 책으로 저는 무료로 공개된 Beginning Perl( http://www.perl.org/books/beginning-perl/ ) 과 최근에 나온 무료책 Modern Perl ( http://www.onyxneon.com/books/modern_perl/index.html )을 보시길 추천 드립니다. 결국에 모든 정답은 perldoc( http://perldoc.perl.org/ )문서에 있다는 것도 명심하시고~
 
+일명 Camel Book으로 유명한 Programming Perl은 Perl의 거의 모든 부분을 커버하는 참고서이지만 현재 3판은 오래된 내용으로 2012년 2월 개정 4판( http://shop.oreilly.com/product/9780596004927.do ) 이 발매될 예정이니 새로운 버젼이 나오면 보시길 추천드립니다.
+
 # 추가 참고 문서
 ## 영문
  * Learn Perl in about 2 hours 30 minutes http://qntm.org/files/perl/perl.html
