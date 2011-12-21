@@ -369,6 +369,8 @@ http://blogs.perl.org/users/leon_timmermans/2011/10/why-do-you-want-new-major-fe
 
 라고 말하고 있음.
 
+switch 문 비슷한 기능은 기존의 문법을 조합하여 http://www.perlmonks.org/?node=How%20do%20I%20create%20a%20switch%20or%20case%20statement%3F 와 같은 방법을 사용해서도 가능함.
+
 ## 번외편
 ### 해시 슬라이스
 책의 뒷쪽에서 다루는  고급주제지만 미리 설명드리면 앞에서 배운 배열 슬라이스와 비슷한 해시 슬라이스라는 것이 있습니다.
