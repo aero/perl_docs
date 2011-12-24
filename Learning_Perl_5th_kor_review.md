@@ -388,6 +388,7 @@ Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필�
  * Learn Perl in about 2 hours 30 minutes http://qntm.org/files/perl/perl.html
  * Learning Perl http://learn.perl.org/
  * Perl Beginners' Site http://perl-begin.org/
+ * Perl Elements to Avoid http://perl-begin.org/tutorials/bad-elements/
  * Perl Training Australia - Course Notes http://perltraining.com.au/notes.html
  * Perl Training Australia - Perl Tips http://perltraining.com.au/tips/
  * Fundamentals of Perl http://szabgab.com/fundamentals_of_perl.html
