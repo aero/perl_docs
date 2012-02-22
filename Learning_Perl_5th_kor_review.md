@@ -369,6 +369,8 @@ http://blogs.perl.org/users/leon_timmermans/2011/10/why-do-you-want-new-major-fe
 
 라고 말하고 있음.
 
+( Programming Perl 4판에서는 given ~ when은 아직 시험적 상태로 보지만 스마트매칭이 적용되지 않는 명시적인 숫자,문자열 매칭 조건은 향후 어떻게 변하든 문제 없으니 안심하고 사용해도 괜찮다고 함)
+
 switch 문 비슷한 기능은 기존의 문법을 조합하여 http://www.perlmonks.org/?node=How%20do%20I%20create%20a%20switch%20or%20case%20statement%3F 와 같은 방법을 사용해서도 가능함.
 
 ## 번외편
