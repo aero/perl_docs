@@ -168,7 +168,7 @@ sub delegated_method
 ```
 
 
-보통 하나의 인자만 받는 경우 `my $var = shift;` 형식을 종종 쓰기도 하지만 (실제로도 shift는 함수호출 스택을 수정하기 때문에 속도면에서도 느리다고 함 참고: http://makepp.sourceforge.net/2.0/perl_performance.html#functions ) 저 같은 경우 위 같이 인자를 하나씩 꺼내면서 어떤 채크가 필요 하지 않는 경우 인자의 목록이 한눈에 보이게 일관적으로 `my (...) = @_` 형식을 사용합니다.
+보통 하나의 인자만 받는 경우 `my $var = shift;` 형식을 종종 쓰기도 하지만 (실제로도 shift는 함수호출 스택을 수정하기 때문에 속도면에서도 느리다고 함 *참고: http://makepp.sourceforge.net/2.0/perl_performance.html#functions ) 저 같은 경우 위 같이 인자를 하나씩 꺼내면서 어떤 채크가 필요하는 등의 특수한 경우를 제외하고는 인자의 목록이 한눈에 보이게 일관적으로 `my (...) = @_` 형식을 사용합니다.
 
 ```perl
 sub my_func {
