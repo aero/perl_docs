@@ -393,9 +393,10 @@ switch 문 비슷한 기능은 기존의 문법을 조합하여 http://www.perlm
 해시에 대해 좀 더 자세히 알고 싶으시면 http://perl101.org/hashes.html 을 보세요
 
 # 이 책에 없는 것
-Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필요하고 이해해야하는 레퍼런스( http://perldoc.perl.org/perlreftut.html , http://perldoc.perl.org/perlref.html )와 복잡한 자료구조( http://perldoc.perl.org/perldsc.html ), 모듈의 원리, 객체지향(OOP) 등에 대해서 다루지 않습니다. 따라서 이 책을 다 봤다고 Perl을 다 공부했다고 생각하시면 안됩니다. 원래 이 책 다음으로 보도록 기획된 책이 Intermediated Perl ( http://oreilly.com/catalog/9780596102067 ) 이란 책입니다. 이 책은 약간 오래됐고( 개정판을 준비중이라는 소문이 있음) 번역서가 없으니 영문을 보셔야 하며, 개인적으로 Learning Perl 5판에서 다루지 않은 Perl 전반을 다루는 책으로 저는 무료로 공개된 Beginning Perl( http://www.perl.org/books/beginning-perl/ ) 과 최근에 나온 무료책 Modern Perl ( http://www.onyxneon.com/books/modern_perl/index.html )을 보시길 추천 드립니다. 그리고 효율적인 Perl프로그래밍을 고민하신다면 Effective Perl Programming ( http://www.amazon.com/gp/product/B003LL2TP4/ 저자블로그: http://www.effectiveperlprogramming.com/ ) 도 추천합니다. 결국에 모든 정답은 perldoc( http://perldoc.perl.org/ )문서에 있다는 것도 명심하시고~
+Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필요하고 이해해야하는 레퍼런스( http://perldoc.perl.org/perlreftut.html , http://perldoc.perl.org/perlref.html )와 복잡한 자료구조( http://perldoc.perl.org/perldsc.html ), 모듈의 원리, 객체지향(OOP) 등에 대해서 다루지 않습니다. 따라서 이 책을 다 봤다고 Perl을 다 공부했다고 생각하시면 안됩니다. 원래 이 책 다음으로 보도록 기획된 책이 Intermediated Perl ( http://oreilly.com/catalog/9780596102067 ) 이란 책입니다. 이 책은 약간 오래됐고( 개정판 http://shop.oreilly.com/product/0636920012689.do 이 2012년 8월에 나오니 보려면 그것을 보시길) 번역서가 없으니 영문을 보셔야 하며, 개인적으로 Learning Perl 5판에서 다루지 않은 Perl 전반을 다루는 책으로 저는 무료로 공개된 Beginning Perl( http://www.perl.org/books/beginning-perl/ *참고:새로운 Beginning Perl이 2012년 9월에 나옴 http://www.wrox.com/WileyCDA/WroxTitle/Beginning-Perl.productCd-1118013840.html 내용 미리보기: http://ofps.oreilly.com/titles/9781118013847/ ) 과 최근에 나온 무료책 Modern Perl ( http://www.onyxneon.com/books/modern_perl/index.html )을 보시길 추천 드립니다. 그리고 효율적인 Perl프로그래밍을 고민하신다면 Effective Perl Programming ( http://www.amazon.com/gp/product/B003LL2TP4/ 저자블로그: http://www.effectiveperlprogramming.com/ ) 도 추천합니다. 결국에 모든 정답은 perldoc( http://perldoc.perl.org/ )문서에 있다는 것도 명심하시고~
 
-일명 Camel Book으로 유명한 Programming Perl은 Perl의 거의 모든 부분을 커버하는 참고서이지만 현재 3판은 오래된 내용으로 2012년 2월 개정 4판( http://shop.oreilly.com/product/9780596004927.do ) 이 발매될 예정이니 새로운 버젼이 나오면 보시길 추천드립니다.
+일명 Camel Book으로 유명한 Programming Perl은 Perl의 거의 모든 부분을 커버하는 참고서이지만 현재 3판은 오래된 내용으로 2012년 2월 개정 4판( http://shop.oreilly.com/product/9780596004927.do ) 이 나왔으니 보시려면 반드시 새로운 버젼으로 보시길 추천드립니다.
+
 
 # 추가 참고 문서
 ## 영문
