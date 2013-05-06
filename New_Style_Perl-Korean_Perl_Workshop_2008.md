@@ -643,6 +643,7 @@ sub new {                        # Perl에서 new는 키워드가 아니다.
     my ($class, $age) = @_;      # $class는 "Man", $age는 12
     my $self = { age => $age };  # 해쉬레퍼런스
     bless $self, $class;         # 레퍼런스에 객체이름을 붙인다.
+    return $self;                # 만들어진 객체를 리턴한다.
 }
 
 sub add_age {
