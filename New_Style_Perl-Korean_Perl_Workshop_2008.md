@@ -682,7 +682,7 @@ Plagger http://plagger.org/trac
 --------------------------------------------------
 ```
 
-최신정보(2011-05-06 갱신)
+최신정보(2013-05-06 갱신)
 
 ```
 Perl은 역사가 오래된 만큼 과거의 Legacy한 코드들과 문서들이 많이 남아있어 그런걸 보고 공부하신분들은
@@ -698,7 +698,8 @@ http://me.veekun.com/blog/2011/04/13/perl-worst-practices/ (번역: http://cafe.
 http://perl-begin.org/tutorials/bad-elements/
 
 현대적 Perl OOP에 대한 가이드라인
-http://urth.org/~autarch/new-pod/html/perlootut.pod.html
+http://perldoc.perl.org/perlobj.html
+http://perldoc.perl.org/perlootut.html
 https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=1bUdjm4YzxlLhopigzO0drUOiGYm7SxjuiSn0FJCaS-AYXuaF5Uvqcpv-BAUk&hl=ko
 
 Modern Perl 무료 책
