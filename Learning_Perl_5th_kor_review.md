@@ -416,6 +416,7 @@ Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필�
  * Object-Oriented Programming in Perl Tutorial https://metacpan.org/module/SHAY/perl-5.15.5/pod/perlootut.pod
 
 ## 한글
+ * 2시간 30분만에 펄 익히기(한글번역) http://qntm.org/files/perl/perl_kr.html
  * gypark님의 Wiki의 Perl섹션 http://gypark.pe.kr/wiki/perl
  * "Perl의 안 좋은 코딩 습관" 요약 번역 http://cafe.naver.com/perlstudy/655
  * 새로운 Perl OOP로 개과천선하기 https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=1bUdjm4YzxlLhopigzO0drUOiGYm7SxjuiSn0FJCaS-AYXuaF5Uvqcpv-BAUk&hl=ko
