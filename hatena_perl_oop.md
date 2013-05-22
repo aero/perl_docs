@@ -3,8 +3,11 @@
 ## 알리는 말
 
 이 문서는 일본 Hatena 사의 인턴교육용 문서인 Hatena-TextBook의 oop-for-perl 문서
-https://github.com/hatena/Hatena-Textbook/blob/master/oop-for-perl.md 를 번역한 것입니다. (문서 번역에 도움을 준 [@JEEN_LEE](https://twitter.com/JEEN_LEE/)군과 Seoul.pm 여러분들께 감사드립니다.)
+https://github.com/hatena/Hatena-Textbook/blob/master/oop-for-perl.md 를 번역한 것입니다. 
 필요에 따라 내용의 추가 및 약간의 수정이 가해졌습니다. 라이센스는 원문과 같이 Creative Commons license를 따릅니다.
+
+(문서 번역에 도움을 준 [@JEEN_LEE](https://twitter.com/JEEN_LEE/)군과 Seoul.pm 여러분들께 감사드립니다.)
+
 
 이 문서는 Perl OOP를 위한 핵심만을 굵직하게 짚어나가므로 부족한 점은 다음 문서를 추가로 참고하세요.
 
