@@ -361,7 +361,7 @@ while ( my ($key, $value) = each %hash ) {
 
 ### p295
 Perl 5.10 부터 도입된 smart match 연산자 ~~ 는 너무 경우의 수가 많아 복잡하고 경우에 따라 일관성을 가지고 동작하지 못하는 부분이 있어
-차후 deprecate 시키든지 다시 깔끔하게 정리하려고 하는 것 같습니다. 따라서 그때까지는 쓰지 말기를 추천하더군요.
+차후 deprecate 시키든지 다시 깔끔하게 정리하려고 하는 것 같습니다. 따라서 그때까지는 쓰지 말기를 추천하더군요.(업데이트 알림: Perl 5.18.0 에서 given ~ when 구문과 ~~ 스마트매치 연산자는 실험적인 기능으로 빠졌습니다. https://metacpan.org/module/RJBS/perl-5.18.0/pod/perldelta.pod#The-smartmatch-family-of-features-are-now-experimental )
 
 참고:
  http://blogs.perl.org/users/brian_d_foy/2011/07/rethinking-smart-matching.html
@@ -412,8 +412,8 @@ Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필�
  * Steve's Perl Tutorial http://www.resoo.org/docs/perl/perl_tutorial/tutorial.html
  * Perl 101 - Things Every Perl Programmer Should Know http://perl101.org/
  * What Every Perl Programmer Should Know http://houston.pm.org/talks/2006talks/0604Talk/tiddlywiki_weppsk.html
- * Perl object reference https://metacpan.org/module/SHAY/perl-5.15.5/pod/perlobj.pod
- * Object-Oriented Programming in Perl Tutorial https://metacpan.org/module/SHAY/perl-5.15.5/pod/perlootut.pod
+ * Perl object reference http://perldoc.perl.org/perlobj.html
+ * Object-Oriented Programming in Perl Tutorial http://perldoc.perl.org/perlootut.html
 
 ## 한글
  * 2시간 30분만에 펄 익히기(한글번역) http://qntm.org/files/perl/perl_kr.html
