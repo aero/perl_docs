@@ -1467,4 +1467,4 @@ Perl의 습관으로써, 아래와 같은 디렉토리 구성으로 커밋하면
 * 과제
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.1/jp/88x31.png" /></a><br />이 작품은 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.1/jp/">크리에이티브 커먼즈 표시 - 비명리 - 상속 2.1 일본 라이센스의 아래에서 제공됩니다.</a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.1/jp/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/2.1/jp/88x31.png" /></a><br />이 작품은 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.1/jp/">크리에이티브 커먼즈 표시 - 비영리 - 상속 2.1 일본 라이센스의 아래에서 제공됩니다.</a>
