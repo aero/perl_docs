@@ -419,6 +419,7 @@ Learning Perl 5판은 좋은책이지만 Perl을 제대로 사용하려면 필�
  * 2시간 30분만에 펄 익히기(한글번역) http://qntm.org/files/perl/perl_kr.html
  * gypark님의 Wiki의 Perl섹션 http://gypark.pe.kr/wiki/perl
  * "Perl의 안 좋은 코딩 습관" 요약 번역 http://cafe.naver.com/perlstudy/655
+ * Perl 객체지향(OOP) 프로그래밍 번역 https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md
  * 새로운 Perl OOP로 개과천선하기 https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=1bUdjm4YzxlLhopigzO0drUOiGYm7SxjuiSn0FJCaS-AYXuaF5Uvqcpv-BAUk&hl=ko
  * Perl5편(일한번역기를 통해서 봄) http://j2k.naver.com/j2k_frame.php/korean/www.geocities.jp/ky_webid/perl5/index.html
  * 샘플 코드에 의한 Perl 입문 - 일본어 싸이트(일한번역기를 통해서 봄) http://j2k.naver.com/j2k_frame.php/korean/d.hatena.ne.jp/perlcodesample/20080229/1204271923
