@@ -130,7 +130,7 @@ foreach my $e (@array) { # 모든 요소 순회
 ``` perl
 my %hash = (
   perl  => 'larry',   # => 앞에는 일반적인 문자열일 경우에 인용부호가없는 문자열(= '"이 없는 bareword)이 허용된다. 
-  ruby => 'matz',
+  ruby => 'matz',     # Perl에서는 뒤에 남는 ,가 있어도 상관없다. 넣어놓으면 나중에 요소를 더 추가할 경우 편리함
 );
 #위는 my %hash = ( 'perl', 'larry', 'ruby', 'matz' ); 와 같다. =>을 쓰면 키,값사이 시각적 구별효과를 높혀줌.
 ```
@@ -356,7 +356,7 @@ print $new_x[0]; # 1
 ``` perl
 my %y = (
   perl => 'larry',
-  ruby  => 'matz',  # Perl에서는 뒤에 ,가 있어도 상관없다. 넣어놓으면 나중에 코드에 요소를 더 추가할 경우 편리함
+  ruby  => 'matz',
 );
 my $ref_y1 = \%y;
 
