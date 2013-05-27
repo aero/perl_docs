@@ -1,7 +1,7 @@
 #Perl을 사용한 테스트 작성법
 
 ## 알리는 말
-Perl은 [Test-Infected Culture](http://modernperlbooks.com/mt/2009/04/a-test-infected-culture.html)를 가지고 있다고 할만큼 테스트에 철저하며 [모듈을 만들어 CPAN에 올리면 자동화된 절차와 테스트자원봉사자들에 의에 Perl이 포팅된 모든 펄버젼/플랫폼별로 모듈이 빌드되고 테스트되며](https://twitter.com/ithinkihaveacat/status/336456735835430912) 그 결과가 [cpantesters](http://static.cpantesters.org/)싸이트에 통보됩니다.(예: [JSON::XS 모듈의 테스트결과 리포트](http://static.cpantesters.org/distro/J/JSON-XS.html) ) 이것은 어떤 여타 언어도 가지지 못한 테스트인프라이며 Perl의 안정성과 신뢰성을 높혀주는 주요한 강점입니다. 
+Perl은 [Test-Infected Culture](http://modernperlbooks.com/mt/2009/04/a-test-infected-culture.html)를 가지고 있다고 할만큼 테스트에 철저하며 [모듈을 만들어 CPAN에 올리면 자동화된 절차와 테스트자원봉사자들에 의해 Perl이 포팅된 모든 펄버젼/플랫폼별로 모듈이 빌드되고 테스트되며](https://twitter.com/ithinkihaveacat/status/336456735835430912) 그 결과가 [cpantesters](http://static.cpantesters.org/)싸이트에 통보됩니다.(예: [JSON::XS 모듈의 테스트결과 리포트](http://static.cpantesters.org/distro/J/JSON-XS.html) ) 이것은 어떤 여타 언어도 가지지 못한 테스트인프라이며 Perl의 안정성과 신뢰성을 높혀주는 주요한 강점입니다. 
 
 참고:[Why I Stuck With Perl](http://blogs.perl.org/users/jeffrey_kegler/2011/01/why-i-stuck-with-perl.html)
 
