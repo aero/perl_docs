@@ -856,7 +856,7 @@ $sorter->set_values(5,4,3,2,1);
 ```perl
 # 여기는 기본 main 패키지 영역
 {
-   use Sorter;
+   package Sorter;
    ...
 }
 # 다시 기본 main 영역
