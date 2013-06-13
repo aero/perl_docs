@@ -559,7 +559,7 @@ package Greetings;
 sub hello { }
 1;
 
-# hello 는 &Greeting::hello(); 로 정의된다.
+# hello 는 &Greetings::hello(); 로 정의된다.
 ```
 
 * 서버루틴 정의를 중첩해도 상위네임스페이스(패키지)에 정의됨. 주의
@@ -573,9 +573,9 @@ sub hello {
 }
 1;
 
-# &Greeting::hello();
-# &Greeting::make_msg();
-# &Greeting::print();
+# &Greetings::hello();
+# &Greetings::make_msg();
+# &Greetings::print();
 ```
 
 
