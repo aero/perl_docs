@@ -117,7 +117,7 @@ while(<$fh>) {
 close($fh);
 
 #After
-open my $fh, '<', 'file.txt' or "Can't open $!";
+open my $fh, '<', 'file.txt' or die "Can't open $!";
 while (<$fh>) {
     my @words = split ' ',$_;
     print join( '-', @word), "\n";
