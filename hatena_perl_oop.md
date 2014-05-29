@@ -961,7 +961,7 @@ use parent qw/Father Mother/; # 탐색순서 좌->우
 * 객체지향에 필요한 기능은 모두 갖추어져 있다.
 * 추가 참고
   * [
-새로운 Perl OOP로 개과천선 하기](http://www.docstoc.com/docs/23978407/%EC%83%88%EB%A1%9C%EC%9A%B4-Perl-OOP%EB%A1%9C-%EA%B0%9C%EA%B3%BC%EC%B2%9C%EC%84%A0-%ED%95%98%EA%B8%B0)
+새로운 Perl OOP로 개과천선 하기](https://docs.google.com/file/d/1bUdjm4YzxlLhopigzO0drUOiGYm7SxjuiSn0FJCaS-AYXuaF5Uvqcpv-BAUk/edit?hl=ko&pli=1)
   * [perlobj - Perl object reference](http://perldoc.perl.org/perlobj.html)
   * [perlootut - Object-Oriented Programming in Perl Tutorial](http://perldoc.perl.org/perlootut.html)
 
